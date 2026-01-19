@@ -13,7 +13,7 @@
 
 ###
 
-<p align="left"><strong>My name is Rafael, and I'm a software developer from Brazil!</strong><br><br>- 🎓 I’m studying <strong>Computer Science</strong> at <strong>Unicentro</strong><br>- 📱 I'm currently learning about <strong>mobile development</strong> using <strong>Flutter</strong><br>- 🎸 In my free time I like to <strong>play music</strong></p>
+<p align="left"><strong>My name is Rafael, and I'm a software developer from Brazil!</strong><br><br>- 🎓 I have a degree in <strong>Computer Science</strong> from <strong>Unicentro</strong><br>- 📱 I'm currently learning about <strong>mobile development</strong> using <strong>Flutter</strong><br>- 🎸 In my free time I like to <strong>play music</strong></p>
 
 ###
 
