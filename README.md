@@ -1,4 +1,5 @@
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Hi, I'm Rafael 👋</h1>
+<h3 align="center">Software developer | Mobile & Data Engineering</h3>
 
 ###
 
@@ -9,11 +10,28 @@
 ###
 
 
-<h3 align="left">🙋‍♂️  About Me</h3>
+<h3 align="left">🙋‍♂️ About Me</h3>
 
-###
+<p align="left"><strong>My name is Rafael, and I'm a software developer from Brazil!</strong></p>
 
-<p align="left"><strong>My name is Rafael, and I'm a software developer from Brazil!</strong><br><br>- 🎓 I have a degree in <strong>Computer Science</strong> from <strong>Unicentro</strong><br>- 📱 I'm currently learning about <strong>mobile development</strong> using <strong>Flutter</strong><br>- 🎸 In my free time I like to <strong>play music</strong></p>
+<ul> 
+<li>🎓 I hold a degree in <strong>Computer Science</strong> from <strong>Unicentro</strong><br></li>
+</ul>
+<p> My current interests include: </p>
+<ul> 
+<li>📱 <strong>Mobile development</strong> using <strong>Flutter</strong> </li>
+<li>📈 <strong>Data engineering</strong></li>
+</ul>
+
+<!-- <p align="left"><strong>My name is Rafael, and I'm a software developer from Brazil!</strong>
+<br><br>- 🎓 I hold a degree in <strong>Computer Science</strong> from <strong>Unicentro</strong><br></p>
+
+<p align="left">My current interests include:<br></p>
+- 📱 I'm currently learning about **mobile development** using **Flutter**
+<br> -->
+
+<!-- - 📱 I'm currently learning about <strong>mobile development</strong> using <strong>Flutter</strong><br> -->
+<!-- - 🎸 In my free time I like to <strong>play music</strong></p> -->
 
 ###
 
@@ -79,14 +97,14 @@
 
 ###
 
-<h3 align="left">📊 Data Engineering</h3>
+<h3 align="left">📊 Data Engineering & BI</h3>
 
 ###
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apache airflow logo"  />
-  <img width="12" />
-  <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" height="40" alt="minio logo"  />
+  <!-- <img width="12" />
+  <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" height="40" alt="minio logo"  /> -->
   <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo"  />
   <img width="12" />
