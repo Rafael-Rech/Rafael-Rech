@@ -79,6 +79,22 @@
 
 ###
 
+<h3 align="left">📊 Data Engineering</h3>
+
+###
+
+<div align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apacheairflow/apacheairflow-original.svg" height="40" alt="apache airflow logo"  />
+  <img width="12" />
+  <img src="https://dl.min.io/logo/Minio_logo_light/Minio_logo_light.svg" height="40" alt="minio logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/54cfe13ac10eaa1ef817a343ab0a9437eb3c2e08/icons/apachespark/apachespark-original.svg" height="40" alt="spark logo"  />
+  <img width="12" />
+  <img src="https://images.icon-icons.com/2699/PNG/512/metabase_logo_icon_170959.png" height="40" alt="metabase logo"  />
+</div>
+
+###
+
 <h3 align="left">🛠️ Other technologies</h3>
 
 ###
